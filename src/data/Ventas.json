@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "idCliente": 1,
+    "idProducto": 2,
+    "cantidad": 3,
+    "fecha": "2026-06-11"
+  },
+  {
+    "id": 2,
+    "idCliente": 2,
+    "idProducto": 1,
+    "cantidad": 1,
+    "fecha": "2026-06-12"
+  }
+]
